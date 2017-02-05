@@ -6,10 +6,6 @@ name='somebot'
 #ID Of somebot
 #slack=Slacker('xoxb-127663738195-Le4BIufQzqADh6eC2pKIdVEJ')
 
-#Test ID of AcceleroTeam
-#slack=Slacker('xoxp-109406689664-110788867926-127737250370-d01039ce30fad5d82e8aaeb8ff4580f0')
-#Test ID of SF
-slack=Slacker('xoxp-111399271671-111408077911-128780231495-a35ef316f291cea3401b6909a06438c0')
 a=list()
 flag=0
 ch_name="botbot"
